@@ -14,14 +14,11 @@ div[data-formula] {
 
 svg {
     background-color: #4480e3;
-    width: 600px;
-    height: 300px;
+    width: 100%;
+    height: 100%;
     position: relative;
 }
 
-/* light blue: #c7fff5 */
-/* blue : #2a64c5 */
-/* black : #000000*/
 
 a {
     text-decoration: none;
